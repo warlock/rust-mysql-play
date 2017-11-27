@@ -1,0 +1,7 @@
+[package]
+name = "rust-mysql-play"
+version = "0.1.0"
+authors = ["Josep Subils <js@js.gl>"]
+
+[dependencies]
+mysql = "12.0.3"
